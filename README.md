@@ -49,7 +49,7 @@ This **Contact Management CRUD Application** is a React single-page app built wi
 
 Check out the live demo of the Adventure Blog App:
 
-👉 [Check it Live](https://i.imghippo.com/files/kLe9228jdU.png)
+👉 [Check it Live](https://react-addcontacttolist-makedonkat.netlify.app/)
 
 ---
 
@@ -123,7 +123,7 @@ To run this project locally, follow the steps below:
 
 ## Credits 📝
 
-This project was developed as part of a React + TypeScript coding challenge focused on creating reusable components, consuming JSON-based data, and building a clean, responsive design with best practices in mind.
+This project was developed as part of a React + TypeScript workshop focused on CRUD operations, state management, and component communication.
 
 ---
 
